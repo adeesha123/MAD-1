@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">blood care</string>
+    <string name="clara_dan">Clara Dan</string>
+    <string name="peter_josua">Peter Josua</string>
+    <string name="_16">$16</string>
+    <string name="noel_brade">Noel Brade</string>
+    <string name="_2020_04_26">2020/04/06</string>
+    <string name="_2020_04_06">2020/04/06</string>
+    <string name="date1">Date</string>
+    <string name="_2020_04_05">2020/04/05</string>
+    <string name="_26">$26</string>
+    <string name="todo">TODO</string>
+    <string name="amount2">amount</string>
+    <string name="amount1">amount1</string>
+    <string name="delete_income_details">Delete Income Details</string>
+    <string name="update_income_details">Update Income Details</string>
+    <string name="date">date</string>
+    <string name="name">Name :</string>
+    <string name="deposited_date">Deposited Date :</string>
+    <string name="edit_income_details">Edit Income Details</string>
+    <string name="deposited_amount">Deposited Amount :</string>
+    <string name="amount">amount</string>
+    <string name="image">image</string>
+    <string name="fund">Fund</string>
+    <string name="view_fund_details">View Fund Details</string>
+    <string name="bank_name1">Bank Name</string>
+    <string name="acc_no1">Acc No</string>
+    <string name="s">*****</string>
+    <string name="kcu_bank1">KCU Bank</string>
+    <string name="select_month">Select Month</string>
+    <string name="mectile_bank">Mectile Bank</string>
+    <string name="xxxxxxxxxx">xxxxxxxxxx</string>
+    <string name="kcu_bank">KCU Bank</string>
+    <string name="xxxxxxxxss">xxxxxxxxss</string>
+    <string name="add_income_details">Add Income Details</string>
+    <string name="add">Add</string>
+    <string name="depositer_s_name">Depositer\'s Name</string>
+    <string name="view_income_details">View Income Details</string>
+    <string name="deposited_date1">Deposited Date :</string>
+    <string name="amount3">Amount :</string>
+    <string name="name2">Name</string>
+    <string name="name1">Name :</string>
+
+</resources>
